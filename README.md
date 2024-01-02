@@ -20,50 +20,63 @@ The analysis primarily focuses on examining guided learning hours per learner co
 ### 4. Exploratory Data Analysis (EDA) 📊
    - Summarize dependent and independent variables
    - Analyze GLH per learner by institute type and size, effect of region and year on GLH per learner
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/783ca30d-148f-4a48-8b65-db3bb80f10c9)
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/ff1af3c0-87a1-4e4f-afb3-31cf0255c3f5)
+
+
 ### 5. Statistical Modelling 📈
    - T-test, ANOVA analysis on different factors affecting GLH per learner
 
-## Results and Conclusions 📝
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/571f2864-3c3a-4994-a6dc-96742322f49a)
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/e1456f20-a2f7-4069-a94a-3730c7750c1a)
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/4a119e35-0e37-4b5f-bbde-b084a5c89a7c)
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/128ce757-6a19-4c7c-9235-aebb2b72be30)
+
+
+## Results  📝
 The detailed analysis presents significant findings:
 
 - Effect of Institute Type and Size on GLH per learner
   
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/2c7fadc1-ffaf-4d24-a4ed-0fc45cb861ef)
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/5a013e4b-730f-4e93-b375-2a481f069764)
+
+•	Summarizing the above information, we can state that there is an inverse relationship between the institute type and size with the total GL hours needed. However, we find a contrary in small-size institutes, though sixth form colleges are more in number high GL hours needed for a single learner than FE colleges learner.
 
   
 - Effect of Region and Year on GLH per learner
 
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/06fd5add-5b0e-42aa-b4a1-3c8b02d055ed)
 
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/75c21c72-9323-4586-8d36-a490a502ed02)
-
-  
-- Statistical models showcasing relationships between various factors
-
-* Effect of Institute Type on GLH per learner
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/0a474789-6ded-4174-951c-27fd0b5346a8)
-
-The scatter plot shows that there is a variation in the two groups and sixth form college has low variance. The box plot depicts the data to median and mean overlap in FE colleges and half of the data in sixth form li below the median. Summarizing the above results state that there is a difference between the two variables and FE colleges mean is greater than Further education college by 1.06 as this may be due to lack of data of the sixth form colleges.
+•	Summarizing the above information, we can say that a few regions needed more learning hours in year 3 but some decreased in the 3rd year. Every region had low learning hours needed in year 1.
 
 
+- Effect of Institute Type on GLH per learner
 
-Concluding remarks emphasize the inverse relationship between institute type and size with total GLH needed, while also highlighting regional variations in learning hours across different years. Statistical models demonstrate correlations but reveal non-normality in the data.
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/52605ce9-f45d-4d91-bd1b-50d65907bb0d)
 
-## Supporting Evidence 📝
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/02d0bbeb-6599-4348-b9fd-521d52e4cda8)
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/429c1744-e0e5-41d1-99cc-3d25fef0a948)
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/34bd970c-dc57-47da-9eb7-dc8e514d7d79)
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/3055d229-1b5e-4ec0-a163-b857dfe69fd6)
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/c9c97a6f-4dab-4b19-be44-10018d6af2fb)
-
-![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/ce070c36-1147-4f5f-8c5d-0495cf729aac)
+The scatter plot shows that there is a variation in the two groups and sixth form college has low variance. The box plot depicts the data to median and mean overlap in FE colleges and half of the data in sixth form li below the median. 
+• Summarizing the above results state that there is a difference between the two variables and FE colleges mean is greater than Further education college by 1.06 as this may be due to lack of data of the sixth form colleges.
 
 
+- Effect of ‘REGION’ on GLH per learner
+
+
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/88078e61-20c1-40ef-bf3d-4984699865bf)
+
+![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/5121130a-107a-473b-8ea1-ca92847d967c)
+
+There are 9 regions where the colleges are spread among which ‘South East’ and ‘North West’ regions have a higher number of observations and the scatter plot shows that ‘East Midlands’ and ‘South West’ regions there are a minimum number of observations. And the box plot shows that the mean for each region is above the median and they do not overlap except for ‘South West’ region. 
+
+
+##  Conclusions 📝
+
+We can conclude that there is an inverse relationship between the institute type and size with the total GL hours needed. However, we find a contrary in small-size institutes, though sixth form colleges are more in number high GL hours needed for a single learner than FE colleges learner. When region and year are taken into consideration few regions needed more learning hours in year 3 but some decreased in the 3rd year also every region had low learning hours needed in year 1. The statistical models show a significant relationship between all the factors in each group and there are few combinations high correlation is found but there is no normality in the data. 
 
 ---
 
