@@ -4,7 +4,6 @@
 
 ## Summary
 The project revolves around a detailed analysis conducted on guided learning hours per learner across two distinct types of UK educational institutions: Further Education (FE) colleges and Sixth Form colleges. The analysis encompasses several crucial stages, beginning with data import, merging, data cleaning, anomaly detection, exploratory data analysis (EDA), and culminating in relevant statistical modeling to derive meaningful insights.
-
 ## Major Insights 📊
 The analysis primarily focuses on examining guided learning hours per learner concerning various factors, such as region, institution type, size, and three-year data for each institute. It identifies an inverse relationship between the institute type and size with the total guided learning hours needed. However, an interesting contradiction is observed in small-size institutes, where sixth form colleges, despite being more numerous, require higher GLH (guided learning hours) for a single learner than FE colleges' learners.
 
