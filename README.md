@@ -12,7 +12,7 @@ The Project “Analysis on Guided Learning Hours (GLH) in Further Education and 
 The analysis is based on two datasets containing information on the total Guided Learning Hours (GLH) for learners across various regions of the UK.
 Both datasets are structured similarly but focus on different types of institutions. 
 
-Dataset 1 contains 'Further Education Colleges' data and Dataset 2 contains 'Sixth Form Colleges' data. 
+we have 2 CSV files, Dataset 1 contains 'Further Education Colleges' data and Dataset 2 contains 'Sixth Form Colleges' data. 
 
 These datasets contains data for 9 regions across 3 years. The regions covered in this dataset include North, South, East, West, Midlands, London, Yorkshire and the Humber, South East, and South West. The datasets consists of 4 columns:
 
