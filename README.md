@@ -180,7 +180,7 @@ Statistical Significance:
 
 The comprehensive analysis of Guided Learning Hours (GLH) per learner across Further Education and Sixth Form Colleges in the UK reveals significant patterns that have practical applications for policymakers, educational institutions, and stakeholders.
 
-#### Inverse Relationship Between Institution Size and GLH per Learner
+### Inverse Relationship Between Institution Size and GLH per Learner
 
 Findings: The data shows a statistically significant inverse relationship between the size of an institution and the GLH allocated per learner. Larger institutions tend to offer fewer guided learning hours per student.
 
@@ -192,7 +192,7 @@ Operational Strategies: Institutions can reassess their scheduling, class sizes,
 
 Policy Adjustments: Educational authorities might consider revising funding formulas to account for the disadvantages larger institutions face in providing sufficient GLH per learner.
 
-#### Differences Between Institution Types
+### Differences Between Institution Types
 
 Findings: Sixth Form Colleges generally provide more GLH per learner compared to Further Education Colleges. This difference is statistically significant, suggesting inherent differences in how these institutions operate.
 
@@ -204,7 +204,7 @@ Best Practices Sharing: Both institution types can collaborate to share effectiv
 
 Targeted Support: Tailoring support based on institution type can ensure that each institution meets its learners' specific needs.
 
-#### Regional Variations in GLH Allocation
+### Regional Variations in GLH Allocation
 
 Findings: Significant regional disparities exist in GLH per learner. Some regions consistently offer more guided learning hours than others.
 
@@ -216,7 +216,7 @@ Policy Intervention: Policymakers should investigate the causes of regional vari
 
 Local Strategies: Institutions in regions with lower GLH can adopt innovative teaching methods or lobby for increased resources.
 
-#### Yearly Trends and Anomalies
+### Yearly Trends and Anomalies
 
 Findings: The analysis over three years shows varying GLH allocations, with certain years exhibiting significant deviations.
 
