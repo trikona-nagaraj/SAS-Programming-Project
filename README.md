@@ -14,7 +14,19 @@ Both datasets are structured similarly but focus on different types of instituti
 
 we have 2 CSV files, Dataset 1 contains 'Further Education Colleges' data and Dataset 2 contains 'Sixth Form Colleges' data. 
 
-These datasets contains data for 9 regions across 3 years. The regions covered in this dataset include North, South, East, West, Midlands, London, Yorkshire and the Humber, South East, and South West. The datasets consists of 4 columns:
+These datasets contains data for 9 regions across 3 years. The regions covered in this dataset include:
+
+East Midlands
+East of England
+London
+North East
+North West
+South East
+South West
+West Midlands
+Yorkshire and the Humber
+
+The datasets consists of 4 columns:
 
 Region: Specifies the geographical region of the institution.
 Year: The academic year of the data (e.g., 2021, 2022, 2023).
