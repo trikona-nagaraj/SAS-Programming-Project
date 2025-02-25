@@ -14,7 +14,6 @@ This project analyzes variations in Guided Learning Hours (GLH) per learner acro
 The results aim to provide data-driven insights for optimizing GLH allocation and improving resource management in educational institutions.
 
 
-
 GLH refers to the time a student spends being taught or instructed in a structured learning environment. Further education colleges provide education for students aged 16 and older, often focusing on vocational and technical courses, while sixth form colleges primarily cater to students aged 16 to 19, offering academic qualifications such as A-levels. 
 
 
