@@ -19,9 +19,7 @@ This project analyzes variations in Guided Learning Hours (GLH) per learner acro
   - [Statistical Modeling](#statistical-modeling)
 - [Results](#results)
 - [Conclusions and Recommendations](#conclusions-and-recommendations)
-- [How to Run the Code](#how-to-run-the-code)
-- [Requirements](#requirements)
-- [Acknowledgements](#acknowledgements)
+- [Project Execution Snippets](#project-execution-snippets)
 
 
 
@@ -182,7 +180,7 @@ Statistical Significance:
 
 The comprehensive analysis of Guided Learning Hours (GLH) per learner across Further Education and Sixth Form Colleges in the UK reveals significant patterns that have practical applications for policymakers, educational institutions, and stakeholders.
 
-- Inverse Relationship Between Institution Size and GLH per Learner
+#### Inverse Relationship Between Institution Size and GLH per Learner
 
 Findings: The data shows a statistically significant inverse relationship between the size of an institution and the GLH allocated per learner. Larger institutions tend to offer fewer guided learning hours per student.
 
@@ -194,7 +192,7 @@ Operational Strategies: Institutions can reassess their scheduling, class sizes,
 
 Policy Adjustments: Educational authorities might consider revising funding formulas to account for the disadvantages larger institutions face in providing sufficient GLH per learner.
 
-- Differences Between Institution Types
+#### Differences Between Institution Types
 
 Findings: Sixth Form Colleges generally provide more GLH per learner compared to Further Education Colleges. This difference is statistically significant, suggesting inherent differences in how these institutions operate.
 
@@ -206,7 +204,7 @@ Best Practices Sharing: Both institution types can collaborate to share effectiv
 
 Targeted Support: Tailoring support based on institution type can ensure that each institution meets its learners' specific needs.
 
-- Regional Variations in GLH Allocation
+#### Regional Variations in GLH Allocation
 
 Findings: Significant regional disparities exist in GLH per learner. Some regions consistently offer more guided learning hours than others.
 
@@ -218,7 +216,7 @@ Policy Intervention: Policymakers should investigate the causes of regional vari
 
 Local Strategies: Institutions in regions with lower GLH can adopt innovative teaching methods or lobby for increased resources.
 
-- Yearly Trends and Anomalies
+#### Yearly Trends and Anomalies
 
 Findings: The analysis over three years shows varying GLH allocations, with certain years exhibiting significant deviations.
 
@@ -233,53 +231,6 @@ Responsive Policies: Educational authorities need to be aware of yearly fluctuat
 
 
 
-
-
-
-
-
-
-
-
-
-## Dataset Description
-
-The analysis is based on two datasets containing information on the total Guided Learning Hours (GLH) for learners across various regions of the UK.
-Both datasets are structured similarly but focus on different types of institutions. 
-
-we have 2 CSV files, Dataset 1 contains 'Further Education Colleges' data and Dataset 2 contains 'Sixth Form Colleges' data. 
-
-These datasets contains data for 9 regions across 3 years. The regions covered in this dataset include:
-
-- East Midlands, East of England, London, North East, North West, South East, South West, West Midlands, Yorkshire and the Humber
-
-The datasets consists of 8 columns:
-
-- Type of Institution: Further Education (FE) or Sixth form colleges
-- Region: Specifies the geographical region of the institution.
-- Total GLH (Guided Learning Hours) Year 1 : Represents the number of hours spent on teaching and learning activities.
-- Number of Learners Year 1 : The count of learners in the educational institutions for the given year and region.
-- Total GLH Year 2
-- Number of Learners Year 2
-- Total GLH Year 3
-- Number of Learners Year 3
-
-## Major Insights 📊
-The analysis primarily focuses on examining guided learning hours per learner concerning various factors, such as region, institution type, size, and three-year data for each institute. It identifies an inverse relationship between the institute type and size with the total guided learning hours needed. However, an interesting contradiction is observed in small-size institutes, where sixth form colleges, despite being more numerous, require higher GLH (guided learning hours) for a single learner than FE colleges' learners.
-
-## Methods Implemented 🛠️
-### 1. Data Import 📥
-   - Commands utilized: DATA, INFILE, DSD, DLM, FIRSTOBS, MISSOVER, INFORMAT, INPUT, LABEL, SET, IF statement, PROC PRINT, etc.
-### 2. Data Cleaning 🧹
-   - Handle missing values
-   - Calculate average GLH for three years
-   - Introduce variables: Average Glh hours, Glh per learner, Total Glh per learner, Size (of the institute)
-### 3. Anomalies Detection and Handling 🕵️‍♂️
-   - Identify extreme values in the data
-   - Normalize data using log transformation
-### 4. Exploratory Data Analysis (EDA) 📊
-   - Summarize dependent and independent variables
-   - Analyze GLH per learner by institute type and size, effect of region and year on GLH per learner
 
 ![image](https://github.com/trikona-nagaraj/Guided-Learning-Hours-Analysis-in-Further-Education-and-Sixth-Form-Colleges/assets/78613343/783ca30d-148f-4a48-8b65-db3bb80f10c9)
 
@@ -299,6 +250,7 @@ The analysis primarily focuses on examining guided learning hours per learner co
 
 
 ## Results  📝
+
 The detailed analysis presents significant findings:
 
 - Effect of Institute Type and Size on GLH per learner
@@ -333,10 +285,4 @@ The scatter plot shows that there is a variation in the two groups and sixth for
 
 There are 9 regions where the colleges are spread among which ‘South East’ and ‘North West’ regions have a higher number of observations and the scatter plot shows that ‘East Midlands’ and ‘South West’ regions there are a minimum number of observations. And the box plot shows that the mean for each region is above the median and they do not overlap except for ‘South West’ region. 
 
-
-##  Conclusions 📝
-
-We can conclude that there is an inverse relationship between the institute type and size with the total GL hours needed. However, we find a contrary in small-size institutes, though sixth form colleges are more in number high GL hours needed for a single learner than FE colleges learner. When region and year are taken into consideration few regions needed more learning hours in year 3 but some decreased in the 3rd year also every region had low learning hours needed in year 1. The statistical models show a significant relationship between all the factors in each group and there are few combinations high correlation is found but there is no normality in the data. 
-
----
 
