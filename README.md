@@ -26,14 +26,16 @@ These datasets contains data for 9 regions across 3 years. The regions covered i
 - West Midlands
 - Yorkshire and the Humber
 
-The datasets consists of 5 columns:
+The datasets consists of 8 columns:
 
 - Type of Institution: Further Education (FE) or Sixth form colleges
 - Region: Specifies the geographical region of the institution.
-- Year: The academic year of the data (e.g., 2021, 2022, 2023).
-- GLH (Guided Learning Hours): Represents the number of hours spent on teaching and learning activities.
-- Number of Learners: The count of learners in the educational institutions for the given year and region.
-
+- Total GLH (Guided Learning Hours) Year 1 : Represents the number of hours spent on teaching and learning activities.
+- Number of Learners Year 1 : The count of learners in the educational institutions for the given year and region.
+- Total GLH Year 2
+- Number of Learners Year 2
+- Total GLH Year 3
+- Number of Learners Year 3
 
 ## Major Insights 📊
 The analysis primarily focuses on examining guided learning hours per learner concerning various factors, such as region, institution type, size, and three-year data for each institute. It identifies an inverse relationship between the institute type and size with the total guided learning hours needed. However, an interesting contradiction is observed in small-size institutes, where sixth form colleges, despite being more numerous, require higher GLH (guided learning hours) for a single learner than FE colleges' learners.
