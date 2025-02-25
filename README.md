@@ -1,17 +1,44 @@
 
-## Analysis on GLH (Guided Learning Hours) in Further Education and Sixth Form Colleges in the UK using SAS
+# **Analysis of Guided Learning Hours in UK Colleges**
 
-This project analyzes variations in Guided Learning Hours (GLH) per learner across two types of UK educational institutions Further Education Colleges and Sixth Form Colleges. The goal is to identify significant trends and correlations by examining factors such as institution type, size, region, and historical data over three years. This analysis utilizes SAS (Statistical Analysis System) tools and techniques, following a structured approach:
 
-- Data Import and Preparation
-- Data Cleaning and Modification
-- Anomalies Detection and Handling
-- Exploratory Data Analysis (EDA)
-- Statistical Modeling
+## Overview
 
-The results aim to provide data-driven insights for optimizing GLH allocation and improving resource management in educational institutions.
+This project analyzes variations in Guided Learning Hours (GLH) per learner across two types of UK educational institutions Further Education Colleges and Sixth Form Colleges. By examining factors such as institution type, size, region, and trends over three years, The goal is to uncover significant patterns that can inform policy decisions and optimize resource allocation within educational institutions. This project utilizes SAS (Statistical Analysis System) to perform a comprehensive analysis of GLH across these institutions, uncovering trends and relationships that can guide strategic decisions.
 
-GLH refers to the time a student spends being taught or instructed in a structured learning environment. Further education colleges provide education for students aged 16 and older, often focusing on vocational and technical courses, while sixth form colleges primarily cater to students aged 16 to 19, offering academic qualifications such as A-levels. 
+
+## **Table of Contents**
+
+- [Introduction](#introduction)
+- [Datasets](#datasets)
+- [Project Structure](#project-structure)
+- [Methodology](#methodology)
+  - [Data Import and Preparation](#data-import-and-preparation)
+  - [Data Cleaning and Modification](#data-cleaning-and-modification)
+  - [Anomalies Detection and Handling](#anomalies-detection-and-handling)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Statistical Modeling](#statistical-modeling)
+- [Results](#results)
+- [Conclusions and Recommendations](#conclusions-and-recommendations)
+- [How to Run the Code](#how-to-run-the-code)
+- [Requirements](#requirements)
+- [Acknowledgements](#acknowledgements)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
