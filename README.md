@@ -16,15 +16,15 @@ we have 2 CSV files, Dataset 1 contains 'Further Education Colleges' data and Da
 
 These datasets contains data for 9 regions across 3 years. The regions covered in this dataset include:
 
-East Midlands
-East of England
-London
-North East
-North West
-South East
-South West
-West Midlands
-Yorkshire and the Humber
+- East Midlands
+- East of England
+- London
+- North East
+- North West
+- South East
+- South West
+- West Midlands
+- Yorkshire and the Humber
 
 The datasets consists of 4 columns:
 
