@@ -1,14 +1,8 @@
-
 /*******************************************************************************************/
-/*	Author: Nagaraj Trikona										        Date: 8/5/22	   */
-/*                                                                                         */
-/*	Title:	Analysis On Guided Learning Hours in Further Education and Sixth Form Colleges */		
-/*																				           */
-/*				                                                    	Version: 1.0	   */
-/*																				           */
-/*	email: P2688243@my365.dmu.ac.uk						                Course: IMAT5168   */
-/*	Module Leader : Anthony Williams                                                       */
-/*  University: De Montfort University													   */					           */
+/*	Author: Nagaraj Trikona							 	           
+/*                                                                                                
+/*	Title:	Analysis On Guided Learning Hours in Further Education and Sixth Form Colleges   		
+/*										                 
 /*******************************************************************************************/
  
 
