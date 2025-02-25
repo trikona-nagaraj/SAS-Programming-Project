@@ -1,6 +1,6 @@
 ---
 
-# Analysis on GLH (Guided Learning Hours) in Further Education and Sixth Form Colleges in the UK using SAS (Statistical Analysis Software)
+# Analysis on GLH (Guided Learning Hours) in Further Education and Sixth Form Colleges in the UK using SAS
 
 
 This project analyzes variations in Guided Learning Hours (GLH) per learner across two types of UK educational institutions: Further Education Colleges and Sixth Form Colleges. The goal is to identify significant trends and correlations by examining factors such as institution type, size, region, and historical data over three years. This analysis utilizes SAS (Statistical Analysis System) tools and techniques, following a structured approach:
@@ -12,7 +12,6 @@ This project analyzes variations in Guided Learning Hours (GLH) per learner acro
 - Statistical Modeling
 
 The results aim to provide data-driven insights for optimizing GLH allocation and improving resource management in educational institutions.
-
 
 GLH refers to the time a student spends being taught or instructed in a structured learning environment. Further education colleges provide education for students aged 16 and older, often focusing on vocational and technical courses, while sixth form colleges primarily cater to students aged 16 to 19, offering academic qualifications such as A-levels. 
 
