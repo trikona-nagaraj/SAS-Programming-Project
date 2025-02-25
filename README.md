@@ -1,9 +1,27 @@
 ---
 
-# Guided Learning Hours Analysis in Further Education and Sixth Form Colleges
+# Analysis on GLH (Guided Learning Hours) in Further Education and Sixth Form Colleges in the UK
 
 ## Summary
-The project revolves around a detailed statistical analysis using SAS Programming (Statistical Analysis Software) conducted on guided learning hours per learner across two distinct types of UK educational institutions - Further Education (FE) colleges and Sixth Form colleges. The analysis encompasses several crucial stages, beginning with data import, merging, data cleaning, anomaly detection, exploratory data analysis (EDA), and culminating in relevant statistical modeling to derive meaningful insights.
+
+The Project “Analysis on Guided Learning Hours (GLH) in Further Education and Sixth Form Colleges” investigates the variations in guided learning hours per learner across two UK educational institutions. GLH refers to the time a student spends being taught or instructed in a structured learning environment. Further education colleges provide education for students aged 16 and older, often focusing on vocational and technical courses, while sixth form colleges primarily cater to students aged 16 to 19, offering academic qualifications such as A-levels. The aim is to identify significant trends and correlations, specifically examining the impact of institution type, size, region, and historical data on GLH. To achieve this, the analysis employs SAS (Statistical Analysis System) analytical tools and techniques, including data import, merging, cleaning, anomaly detection, exploratory data analysis, and statistical modeling. The results aim to provide data-driven insights for optimizing GLH allocation and improving resource management in educational institutions.
+
+
+## Dataset Description
+
+The analysis is based on two datasets containing information on the total Guided Learning Hours (GLH) for learners across various regions of the UK.
+Both datasets are structured similarly but focus on different types of institutions. 
+
+Dataset 1 contains 'Further Education Colleges' data and Dataset 2 contains 'Sixth Form Colleges' data. 
+
+These datasets contains data for 9 regions across 3 years. The regions covered in this dataset include North, South, East, West, Midlands, London, Yorkshire and the Humber, South East, and South West. The datasets consists of 4 columns:
+
+Region: Specifies the geographical region of the institution.
+Year: The academic year of the data (e.g., 2021, 2022, 2023).
+GLH (Guided Learning Hours): Represents the number of hours spent on teaching and learning activities.
+Number of Learners: The count of learners in the educational institutions for the given year and region.
+
+
 ## Major Insights 📊
 The analysis primarily focuses on examining guided learning hours per learner concerning various factors, such as region, institution type, size, and three-year data for each institute. It identifies an inverse relationship between the institute type and size with the total guided learning hours needed. However, an interesting contradiction is observed in small-size institutes, where sixth form colleges, despite being more numerous, require higher GLH (guided learning hours) for a single learner than FE colleges' learners.
 
