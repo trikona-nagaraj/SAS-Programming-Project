@@ -26,12 +26,13 @@ These datasets contains data for 9 regions across 3 years. The regions covered i
 - West Midlands
 - Yorkshire and the Humber
 
-The datasets consists of 4 columns:
+The datasets consists of 5 columns:
 
-Region: Specifies the geographical region of the institution.
-Year: The academic year of the data (e.g., 2021, 2022, 2023).
-GLH (Guided Learning Hours): Represents the number of hours spent on teaching and learning activities.
-Number of Learners: The count of learners in the educational institutions for the given year and region.
+- Type of Institution: Further Education (FE) or Sixth form colleges
+- Region: Specifies the geographical region of the institution.
+- Year: The academic year of the data (e.g., 2021, 2022, 2023).
+- GLH (Guided Learning Hours): Represents the number of hours spent on teaching and learning activities.
+- Number of Learners: The count of learners in the educational institutions for the given year and region.
 
 
 ## Major Insights 📊
